@@ -12,15 +12,18 @@ This project addresses an important business challenge in e-commerce customer su
 5.customer remarks
 6.and predicts the CSAT Score to help companies improve service quality and customer experience.
 
-# Models Used
 
-🧠 Machine Learning Models
-|--------|--------------------------------|-------------------------|-------------------
-|Model   |	Purpose                   	   |Algorithm                |
-|--------|---------- -------------------- |-------------------------|--------------------
-|Model 1 | 	Baseline CSAT prediction	   | Linear Regression       |
-|Model 2 | Improve prediction accuracy    |	Random Forest Regressor|
-|Model 3 |	Final optimized model	Gradient | Boosting Regressor      |
+## 🧠 Models Used
+
+| Model   | Purpose                         | Algorithm                          |
+|---------|---------------------------------|------------------------------------|
+| Model 1 | 	Baseline CSAT prediction     | Linear Regression                  |
+| Model 2 | Improve prediction accuracy     | Random Forest Regressor            |
+| Model 3 | Final optimized model	Gradient| Boosting Regressor 
+
+
+
+
 
 # Dataset
 
