@@ -34,4 +34,17 @@ handling time,
 agent information,
 CSAT Score
 
+## How to Run This Project
+1. Clone this repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the app:
+  streamlit run app.py 
 
+## Projects Highlights
+✔ Customer satisfaction prediction using Machine Learning
+✔ Exploratory Data Analysis with 15+ visualizations
+✔ Feature engineering and hypothesis testing
+✔ Hyperparameter tuning with RandomizedSearchCV
+✔ Model deployment through Streamlit web application
+✔ Real-time CSAT score prediction
